@@ -1,19 +1,34 @@
-### Hi there 👋
+# Hi, I'm Tuana 👋
 
-<!--
-**tuanabicakci/tuanabicakci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science graduate with a double major in Computation Arts, interested in front-end development, full-stack projects, React/TypeScript, AI-powered tools, and interactive digital experiences.
 
-Here are some ideas to get you started:
+I have professional software development experience from two internships at **Genetec**, where I worked on React/JavaScript front-end features, REST API integrations, Azure DevOps workflows, and production-facing documentation platforms. I also enjoy building creative technical projects that combine software, design, and user experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuanabicakci&theme=tokyonight)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=tuanabicakci&theme=dark)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuanabicakci&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+## 💻 What I'm working with
+
+* **Front-end:** React, TypeScript, JavaScript, HTML, CSS, Tailwind CSS
+* **Back-end:** Node.js, Python, PostgreSQL, Supabase, MongoDB, REST APIs
+* **Tools:** Git, GitHub, Azure DevOps, PowerShell, Figma, Swagger
+* **Creative tech:** Game development, UI/UX, interactive media, 3D/environment art
+
+## 🚀 Projects I care about
+
+* **imiGoose** — an AI-powered immigration app built with React Native, Expo, TypeScript, Supabase, and PostgreSQL
+* **Game portfolio** — interactive projects combining programming, design, and environment art
+
+## 🌱 Currently exploring
+
+* Full-stack web development
+* React Native and mobile product development
+* AI-assisted development workflows
+* Cloud, CI/CD, and scalable product engineering
+
+## 📫 Let's connect
+
+* LinkedIn: [linkedin.com/in/tuanabicakci](https://linkedin.com/in/tuanabicakci)
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuanabicakci\&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuanabicakci\&layout=compact\&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
